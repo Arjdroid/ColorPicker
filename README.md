@@ -4,14 +4,12 @@
 A project that aims to remake the beautiful colour picker included in Microsoft Powertoys Utility on Linux
 
 ## Planning
----
 
 * I plan on using the [Gpick](https://github.com/thezbyg/gpick) project as my base. 
 
 * This will basically just be a fork of Gpick to make it have the same UI and some tweaked features as the [colorPicker utility](https://docs.microsoft.com/en-us/windows/powertoys/color-picker) from Microsoft's [powertoys](https://github.com/microsoft/PowerToys).
 
 ## Pictures
----
 
 ### Microsoft's colorPicker utility - 
 
